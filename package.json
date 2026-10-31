@@ -1,0 +1,19 @@
+{
+  "name": "ddg-j-model",
+  "version": "1.0.0",
+  "description": "An interactive, private AI chat client using a reactive face mesh interface powered by DuckDuckGo AI.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "duckduckgo-ai-chat": "^1.1.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["duckduckgo", "ai-chat", "animated-face", "privacy"],
+  "author": "Open Source Contributor",
+  "license": "MIT"
+}
